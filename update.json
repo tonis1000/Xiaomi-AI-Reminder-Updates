@@ -1,0 +1,9 @@
+{
+  "schema": "ai-reminder-update-v1",
+  "packageName": "com.aireminder.voicegate.ringtest.cp181lab",
+  "versionCode": 9,
+  "versionName": "0.9.0-cp218-in-app-updater",
+  "apkUrl": "https://github.com/tonis1000/Xiaomi-AI-Reminder-Updates/releases/download/cp218-v0.9.0/voicegate-release.apk",
+  "apkSha256": "6c41225a393769e148aa981965f3c58437a2f83190e03f4cbb533d859f4c13ab",
+  "signerSha256": "EC51CD44CB77FD0CD86FB9C1428A34C54E2A95ECD0CD5A494C3547D012F7D0A7"
+}
