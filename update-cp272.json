@@ -1,0 +1,9 @@
+{
+  "schema": "ai-reminder-update-v1",
+  "packageName": "com.aireminder.voicegate.ringtest.cp272fingerprint",
+  "versionCode": 14,
+  "versionName": "0.14.0-cp272-ota-lab",
+  "apkUrl": "https://github.com/tonis1000/Xiaomi-AI-Reminder-Updates/releases/download/cp272-ota-v14/voicegate-release.apk",
+  "apkSha256": "2e9ba91d3c503776345e3d29ea72176e3c5105c959643bd4803453707838c3ed",
+  "signerSha256": "EC51CD44CB77FD0CD86FB9C1428A34C54E2A95ECD0CD5A494C3547D012F7D0A7"
+}
